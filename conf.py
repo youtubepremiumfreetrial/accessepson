@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Epson Connect'
 
 
 # The full version, including alpha/beta/rc tags
